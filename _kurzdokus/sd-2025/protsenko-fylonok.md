@@ -25,7 +25,6 @@ Im Rahmen des Screendesign-Projekts wurde ein Redesign der bestehenden Veranstal
 
 Der Auftrag bestand darin, ein neues Frontend-Konzept zu entwickeln, das Veranstaltungen verständlich darstellt, unterschiedliche Nutzungsszenarien berücksichtigt und auf verschiedenen Endgeräten funktioniert.
 
----
 
 ## Kommunikations- und Interaktionsziele
 
@@ -38,7 +37,6 @@ Wichtige Ziele waren:
 - gute Nutzbarkeit auf mobilen Geräten  
 - barrierearme Gestaltung  
 
----
 
 ## Entwickelte Elemente und Screens
 
@@ -53,7 +51,6 @@ Im Rahmen des Projekts wurden verschiedene zentrale Screens entwickelt:
 
 Zusätzlich wurden Funktionen wie das Speichern von Veranstaltungen, Filteroptionen sowie eine Vorlesefunktion integriert.
 
----
 
 ## Zielerreichung
 
@@ -61,7 +58,6 @@ Die definierten Kommunikations- und Interaktionsziele wurden durch eine vereinfa
 
 Die Möglichkeit, Veranstaltungen individuell auszuwählen und in einen eigenen Stundenplan zu integrieren, reduziert die Komplexität der Darstellung erheblich. Die mobile Nutzung wurde deutlich verbessert, da Inhalte vollständig sichtbar und intuitiv navigierbar sind.
 
----
 
 ## Gestaltungssystem und Konzept
 
@@ -71,6 +67,5 @@ Abgerundete Formen, dezente Schatten und eine klare Typografie sorgen für eine 
 
 Das System folgt dem Prinzip der Einfachheit und Wiedererkennbarkeit: ähnliche Inhalte werden gleich dargestellt, Interaktionen bleiben konsistent über alle Screens hinweg.
 
----
 
 Das Projekt zeigt, wie durch ein strukturiertes und nutzerzentriertes Design eine komplexe Anwendung verständlicher und zugänglicher gestaltet werden kann.
