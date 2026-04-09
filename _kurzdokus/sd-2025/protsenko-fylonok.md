@@ -2,35 +2,75 @@
 title: Redesign der Veranstaltungsübersicht am Campus Gummersbach
 people:
     - Anna Protsenko
-    - Galyna Fylonok
-teaserimage: teaser.webp
+    - Galina Fylonok
+teaserimage: protsenko-fylonok-teaser.png
 gallery: 
-    - protsenko-fylonok-mobile-tag.png
-    - protsenko-fylonok-mobile-monat.png
+    - protsenko-fylonok-mobile-tagesansicht.png
+    - protsenko-fylonok-mobile-monatsansicht.png
     - protsenko-fylonok-mobile-veranstaltungsdetailansicht.png
-    - protsenko-fylonok-mobile-veranstaltungen.png
-    - protsenko-fylonok-mobile-termin.png
+    - protsenko-fylonok-mobile-veranstaltungen-1.png
+    - protsenko-fylonok-mobile-veranstaltungen-2.png
     - protsenko-fylonok-mobile-raumbuchung.png
-    - protsenko-fylonok-mobile-raumbuchung2.png
-    - protsenko-fylonok-web-tag.png
-    - protsenko-fylonok-web-woche.png
+    - protsenko-fylonok-mobile-raumbuchung-auswahl.png
+    - protsenko-fylonok-web-tagesansicht.png
+    - protsenko-fylonok-web-wochenansicht.png
     - protsenko-fylonok-web-veranstaltungsdetailansicht.png
     - protsenko-fylonok-web-veranstaltungen.png
-    - protsenko-fylonok-web-favoriten.png
+    - protsenko-fylonok-web-favoritenliste.png
 ---
 
-Im Rahmen des Screendesign-Projekts wurde ein Redesign der bestehenden Veranstaltungsübersicht (HOPS) der TH Köln entwickelt. Ziel war es, die Benutzeroberfläche grundlegend zu verbessern und insbesondere die Nutzung auf mobilen Endgeräten zu optimieren.
+## Ausgangsbasis und Auftrag
 
-Die bestehende Plattform ist funktional, jedoch schwer verständlich und insbesondere auf Smartphones kaum nutzbar. Inhalte werden teilweise abgeschnitten und die Navigation ist unübersichtlich, was die Orientierung – vor allem für neue Studierende – erschwert.
+Im Rahmen des Screendesign-Projekts wurde ein Redesign der bestehenden Veranstaltungsübersicht (HOPS) der TH Köln entwickelt. Das bestehende System ist funktional, jedoch insbesondere auf mobilen Geräten schwer nutzbar und visuell unübersichtlich.
 
-Das entwickelte Konzept setzt daher auf eine klare, reduzierte und konsistente Gestaltung, die komplexe Veranstaltungsdaten verständlich darstellt.
+Der Auftrag bestand darin, ein neues Frontend-Konzept zu entwickeln, das Veranstaltungen verständlich darstellt, unterschiedliche Nutzungsszenarien berücksichtigt und auf verschiedenen Endgeräten funktioniert.
 
-Ein zentraler Bestandteil ist die Möglichkeit, den eigenen Stundenplan individuell zusammenzustellen. Nutzer:innen können Veranstaltungen auswählen und gezielt passende Termine (z. B. Vorlesung, Übung, Seminar) hinzufügen. Die verschiedenen Ansichten (Tages-, Wochen- und Monatsansicht) zeigen anschließend nur die ausgewählten Inhalte an.
+---
 
-Zusätzlich wurden Filterfunktionen integriert, um Veranstaltungen nach Studiengang, Semester oder Typ zu sortieren. Eine Favoritenfunktion ermöglicht es, relevante Veranstaltungen zu speichern.
+## Kommunikations- und Interaktionsziele
 
-Das Interface umfasst mehrere zentrale Screens, darunter Tages-, Wochen- und Monatsansichten, eine Veranstaltungsübersicht, Detailansichten einzelner Veranstaltungen, eine Termin-Auswahl sowie eine Raumübersicht mit optionaler Raumbuchung für Lehrende.
+Ziel des Projekts war es, die Orientierung innerhalb der Veranstaltungsübersicht zu verbessern und eine intuitive Nutzung zu ermöglichen. 
 
-Besonderer Fokus lag auf der mobilen Nutzung, da diese im Alltag der Zielgruppe eine zentrale Rolle spielt. Ergänzend wurde das Konzept auch für Desktop-Ansichten ausgearbeitet.
+Wichtige Ziele waren:
+- klare und verständliche Darstellung komplexer Veranstaltungsdaten  
+- Reduktion visueller Überladung  
+- Unterstützung individueller Nutzung (z. B. eigener Stundenplan)  
+- gute Nutzbarkeit auf mobilen Geräten  
+- barrierearme Gestaltung  
 
-Im Design wurde auf eine klare visuelle Hierarchie, gute Lesbarkeit sowie barrierearme Gestaltung geachtet. Unterstützt wird dies durch verständliche Icons, kontrastreiche Farben und eine reduzierte, ruhige Gestaltung mit abgerundeten Elementen und dezenten Schatten.
+---
+
+## Entwickelte Elemente und Screens
+
+Im Rahmen des Projekts wurden verschiedene zentrale Screens entwickelt:
+
+- Tagesansicht, Wochenansicht und Monatsansicht zur zeitlichen Übersicht  
+- Veranstaltungsübersicht mit Filterfunktionen  
+- Detailansicht einzelner Veranstaltungen  
+- Auswahlmechanismus für Termine („Wählbare Termine“)  
+- Favoritenliste  
+- Raumübersicht sowie Raumbuchung für Lehrende  
+
+Zusätzlich wurden Funktionen wie das Speichern von Veranstaltungen, Filteroptionen sowie eine Vorlesefunktion integriert.
+
+---
+
+## Zielerreichung
+
+Die definierten Kommunikations- und Interaktionsziele wurden durch eine vereinfachte Struktur und klare visuelle Hierarchie umgesetzt. 
+
+Die Möglichkeit, Veranstaltungen individuell auszuwählen und in einen eigenen Stundenplan zu integrieren, reduziert die Komplexität der Darstellung erheblich. Die mobile Nutzung wurde deutlich verbessert, da Inhalte vollständig sichtbar und intuitiv navigierbar sind.
+
+---
+
+## Gestaltungssystem und Konzept
+
+Das Gestaltungskonzept basiert auf einer konsistenten Kartenstruktur, klaren Abständen und einer reduzierten Farbpalette, die sich am Corporate Design der TH Köln orientiert.
+
+Abgerundete Formen, dezente Schatten und eine klare Typografie sorgen für eine ruhige und strukturierte Oberfläche. Icons unterstützen die schnelle Erfassung von Informationen.
+
+Das System folgt dem Prinzip der Einfachheit und Wiedererkennbarkeit: ähnliche Inhalte werden gleich dargestellt, Interaktionen bleiben konsistent über alle Screens hinweg.
+
+---
+
+Das Projekt zeigt, wie durch ein strukturiertes und nutzerzentriertes Design eine komplexe Anwendung verständlicher und zugänglicher gestaltet werden kann.
