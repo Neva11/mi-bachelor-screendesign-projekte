@@ -5,15 +5,15 @@ people:
     - Galina Fylonok
 teaserimage: protsenko-fylonok-teaser.png
 gallery: 
-    - protsenko-fylonok-mobile-tagesansicht.png
-    - protsenko-fylonok-mobile-monatsansicht.png
+    - protsenko-fylonok-mobile-tag.png
+    - protsenko-fylonok-mobile-monat.png
     - protsenko-fylonok-mobile-veranstaltungsdetailansicht.png
-    - protsenko-fylonok-mobile-veranstaltungen-1.png
-    - protsenko-fylonok-mobile-veranstaltungen-2.png
+    - protsenko-fylonok-mobile-veranstaltungen.png
+    - protsenko-fylonok-mobile-termin.png
     - protsenko-fylonok-mobile-raumbuchung.png
-    - protsenko-fylonok-mobile-raumbuchung-auswahl.png
-    - protsenko-fylonok-web-tagesansicht.png
-    - protsenko-fylonok-web-wochenansicht.png
+    - protsenko-fylonok-mobile-raumbuchung2.png
+    - protsenko-fylonok-web-tag.png
+    - protsenko-fylonok-web-wochen.png
     - protsenko-fylonok-web-veranstaltungsdetailansicht.png
     - protsenko-fylonok-web-veranstaltungen.png
     - protsenko-fylonok-web-favoritenliste.png
