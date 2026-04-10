@@ -13,6 +13,13 @@ gallery:
     - Kizilaslan-Eryetli-Ersoy-Tagesplan.png
     - Kizilaslan-Eryetli-Ersoy-Darkmodus.png
     - Kizilaslan-Eryetli-Ersoy-Filteransicht.png
+    - sd-Raumubersicht-Kizilaslan-01.png
+    - sd-Raumubersicht-Kizilaslan-02.png
+    - sd-Wochenansicht-Kizilaslan.png
+    - sd-Termine-Kizilaslan.png
+    - sd-Tagansicht-Kizilaslan.png
+    - sd-Filterleiste-Kizilaslan.png
+    - sd-Detailansicht-Kizilaslan.png
 ---
 Kurzdokumentation: Redesign der Veranstaltungsübersicht an der Fakultät 10
 Das Redesign der Veranstaltungsübersicht für die Fakultät 10 der TH Köln war für uns weit mehr als ein reines optisches Facelift. Das bisherige System glich eher einer starren, administrativen Datenbankabfrage: Wer fünf Minuten vor der Vorlesung seinen Raum auf dem Smartphone suchte, musste sich mühsam durch sechs verschachtelte Dropdown-Menüs kämpfen. Unser zentrales Ziel in diesem Projekt war es, diese tägliche Frustration aufzulösen. Wir wollten ein Interface schaffen, das den echten Campus-Alltag versteht und unterstützt – zugänglich, reaktionsschnell und absolut nutzerzentriert.
