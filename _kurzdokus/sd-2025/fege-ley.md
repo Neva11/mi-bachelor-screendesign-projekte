@@ -22,6 +22,7 @@ gallery:
     - Fege-Ley-Modulansicht-Dekstop.webp
     - Fege-Ley-Tagesansicht-Handy.webp
     - Fege-Ley-Tagesansicht-Handy-Dopplung.webp
+    - Fege-Ley-Tagesansicht-Handy-Dopplung-Expanded.webp
     - Fege-Ley-Monatsansicht-Handy.webp
     - Fege-Ley-Raumansicht-Handy.webp
     - Fege-Ley-Raumansicht-Handy-Filter.webp
