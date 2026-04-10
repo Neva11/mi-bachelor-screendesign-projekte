@@ -7,9 +7,16 @@ teaserimage: Fege-Ley-Wochenansicht-Desktop.webp
 gallery:
     - Fege-Ley-Wochenansicht-Desktop.webp
     - Fege-Ley-Wochenansicht-Desktop-Menu.webp
+    - Fege-Ley-Monatsansicht-Desktop.webp
+    - Fege-Ley-Monatsansicht-Desktop-Monate.webp
+    - Fege-Ley-Monatsansicht-Desktop-Jahre.webp
     - Fege-Ley-Raumansicht-Desktop.webp
     - Fege-Ley-Raumansicht-Desktop-Suche.webp
     - Fege-Ley-Raumansicht-Desktop-Filter.webp
+    - Fege-Ley-Raumansicht-Desktop-Monate.webp
+    - Fege-Ley-Raumansicht-Desktop-Monate-Tagesauswahl.webp
+    - Fege-Ley-Raumansicht-Desktop-Monate-Zeitauswahl.webp
+    - Fege-Ley-Raumansicht-Desktop-Monate-Reserviert.webp
     - Fege-Ley-Personalisierung-Desktop.webp
     - Fege-Ley-Personalisierung-Desktop-2.webp
     - Fege-Ley-Modulansicht-Dekstop.webp
