@@ -12,6 +12,7 @@ gallery:
     - Fege-Ley-Raumansicht-Desktop-Filter.webp
     - Fege-Ley-Personalisierung-Desktop.webp
     - Fege-Ley-Personalisierung-Desktop-2.webp
+    - Fege-Ley-Modulansicht-Dekstop.webp
     - Fege-Ley-Tagesansicht-Handy.webp
     - Fege-Ley-Tagesansicht-Handy-Dopplung.webp
     - Fege-Ley-Monatsansicht-Handy.webp
@@ -22,6 +23,7 @@ gallery:
     - Fege-Ley-Raumansicht-Handy-Monat-Zeitauswahl.webp
     - Fege-Ley-Raumansicht-Handy-Monat-Reserviert.webp
     - Fege-Ley-Personalisierung-Handy.webp
+    - Fege-Ley-Modulansicht-Handy.webp
 ---
 
 //TODO
