@@ -5,14 +5,14 @@ title: Redesign Web Frontend der Veranstaltungsübersicht am Campus Gummersbach
     - Bünyamin Ersoy
 teaserimage: Kizilaslan-Eryetli-Ersoy-Header.png
 gallery: 
-    - Nietzschmann-Ak-desktop-startseite.webp
-    - Nietzschmann-Ak-desktop-ButtonStartseite.webp
-    - Nietzschmann-Ak-desktop-HellmodusStartseite.webp
-    - Nietzschmann-Ak-desktop-LucasCranach.webp
-    - Nietzschmann-Ak-desktop-Forschung.webp
-    - Nietzschmann-Ak-desktop-Partner.webp
-    - Nietzschmann-Ak-tablet-startseite.webp
-    - Nietzschmann-Ak-mobileStartseite.webp
+    - Kizilaslan-Eryetli-Ersoy-Wochenansicht.png
+    - Kizilaslan-Eryetli-Ersoy-Monatsansicht.png
+    - Kizilaslan-Eryetli-Ersoy-Raumansicht.png
+    - Kizilaslan-Eryetli-Ersoy-Raumubersicht.png
+    - Kizilaslan-Eryetli-Ersoy-SemesterBlocke.png
+    - Kizilaslan-Eryetli-Ersoy-Tagesplan.png
+    - Kizilaslan-Eryetli-Ersoy-Darkmodus.png
+    - Kizilaslan-Eryetli-Ersoy-Filteransicht.png
 ---
 Kurzdokumentation: Redesign der Veranstaltungsübersicht an der Fakultät 10
 Das Redesign der Veranstaltungsübersicht für die Fakultät 10 der TH Köln war für uns weit mehr als ein reines optisches Facelift. Das bisherige System glich eher einer starren, administrativen Datenbankabfrage: Wer fünf Minuten vor der Vorlesung seinen Raum auf dem Smartphone suchte, musste sich mühsam durch sechs verschachtelte Dropdown-Menüs kämpfen. Unser zentrales Ziel in diesem Projekt war es, diese tägliche Frustration aufzulösen. Wir wollten ein Interface schaffen, das den echten Campus-Alltag versteht und unterstützt – zugänglich, reaktionsschnell und absolut nutzerzentriert.
