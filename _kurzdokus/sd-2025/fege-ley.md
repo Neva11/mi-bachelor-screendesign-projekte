@@ -3,7 +3,7 @@ title: Redesign Web Frontend der Veranstaltungsübersicht am Campus Gummersbach
 people:
     - Josephine Fege
     - Timo Ley
-teaserimage: Fege-Ley-Wochenansicht-Desktop.webp
+teaserimage: Fege-Ley-Teaser.webp
 gallery:
     - Fege-Ley-Wochenansicht-Desktop.webp
     - Fege-Ley-Wochenansicht-Desktop-Menu.webp
