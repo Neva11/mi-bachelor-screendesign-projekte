@@ -3,7 +3,7 @@ title: Redesign Web Frontend der Veranstaltungsübersicht am Campus Gummersbach
     - Neva Kizilaslan
     - Cihan Eryetli
     - Bünyamin Ersoy
-teaserimage: Kizilaslan-Eryetli-Ersoy-Header.png
+teaserimage: Kizilasla-Eryetli-Ersoy-Header.png
 gallery: 
     - Kizilaslan-Eryetli-Ersoy-Wochenansicht.png
     - Kizilaslan-Eryetli-Ersoy-Monatsansicht.png
