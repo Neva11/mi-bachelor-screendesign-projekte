@@ -5,8 +5,29 @@ people:
     - Samuel Stachwitz
 teaserimage: Purushotham-Stachwitz-Teaser.webp
 gallery:
+    - Purushotham-Stachwitz-Tour1.webp
+    - Purushotham-Stachwitz-Tour2.webp
+    - Purushotham-Stachwitz-Tour3.webp
+    - Purushotham-Stachwitz-Tour4.webp
+    - Purushotham-Stachwitz-Tour4.webp
+    - Purushotham-Stachwitz-Tagesansicht1.webp
+    - Purushotham-Stachwitz-Tagesansicht2.webp
+    - Purushotham-Stachwitz-Wochenansicht1.webp
+    - Purushotham-Stachwitz-Wochenansicht2.webp
+    - Purushotham-Stachwitz-Moduldetails.webp
+    - Purushotham-Stachwitz-Filter1.webp
+    - Purushotham-Stachwitz-Filter2.webp
+    - Purushotham-Stachwitz-Filter3.webp
+    - Purushotham-Stachwitz-Filter4.webp
+    - Purushotham-Stachwitz-Filter5.webp
+    - Purushotham-Stachwitz-PopUp.webp
+    - Purushotham-Stachwitz-Raumbelegung1.webp
+    - Purushotham-Stachwitz-Raumbelegung2.webp
+    - Purushotham-Stachwitz-Raumbelegung3.webp
+    - Purushotham-Stachwitz-Tagesansicht-Desktop.webp
     - Purushotham-Stachwitz-Wochenansicht-Desktop.webp
-    - Purushotham-Stachwitz-Desktop-Menu.webp
+    - Purushotham-Stachwitz-PopUp-Desktop.webp
+    - Purushotham-Stachwitz-Raumbelegung-Desktop.webp
 ---
 
 Im Rahmen des Screendesign-Projekts 2025/26 haben wir die Hochschulplanungs-Software HOPS der TH Köln neu gedacht. Ausgangspunkt war für uns das bestehende System, das in vielen Bereichen nicht mehr zeitgemäß ist. Es wirkt veraltet, ist stark auf den Desktop ausgelegt und bietet insgesamt nur eine eingeschränkte Benutzerfreundlichkeit. Vor allem für Studierende ist die Nutzung dadurch unnötig kompliziert und wenig flexibel.
