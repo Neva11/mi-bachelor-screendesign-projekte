@@ -4,12 +4,34 @@ title: Redesign Web Frontend der Veranstaltungsübersicht am Campus Gummersbach
 people:
     - Husayn Falih
     - Enno Rackwitz
-teaserimage: - falih-rackwitz-teaser.png
-gallery: - falih-rackwitz-handy-Wochenansicht-eine Veranstaltung.png
-         - 
-  
-600 Wörter langes Abstract zum Projekt:
-Im Rahmen des diesjährigen Projekts bestand die Aufgabe darin, die in HOPS gezeigte Stundenplanansicht der Fakultät 10 der TH Köln neu zu gestalten. Ziel war es, ein zugängliches, flexibles und gut strukturiertes Interface zu entwickeln, das komplexe Veranstaltungsdaten übersichtlich auf drei verschiedenen Endgeräten (Desktop, Tablet und Smartphone) darstellt. Hierbei sollten auch auf die Mängeln vom HOPS geachtet werden, um die selben Fehler zu vermeiden.
+teaserimage: falih-rackwitz-teaser.png
+gallery: - falih-rackwitz-handy-01-Wochenansicht-Startseite.png
+         - falih-rackwitz-handy-02-Wochenansicht-Optionleiste.png
+         - falih-rackwitz-handy-03-Profilscreen-vollständig.png
+         - falih-rackwitz-handy-04-Einstellungsscreen.png
+         - falih-rackwitz-handy-05-Benachrichtigungsscreen.png
+         - falih-rackwitz-handy-06-Wochenansicht-Filterscreen-ungefiltert-vollständig.png
+         - falih-rackwitz-handy-07-Wochenansicht-alle Veranstaltungen-vollständig.png
+         - falih-rackwitz-handy-09-Wochenansicht-Favoritenscreen.png
+         - falih-rackwitz-handy-12-Tagesansicht-Montag.png
+         - falih-rackwitz-handy-14-Tagesansicht-Veranstaltungsdetailansicht-TI1.png
+         - falih-rackwitz-handy-15-Tagesansicht-Filterleiste(1).png
+         - falih-rackwitz-handy-16-Tagesansicht-eine Veranstaltung.png
+         - falih-rackwitz-handy-19-Tagesansicht-Searchbar.png
+         - falih-rackwitz-handy-21-Tagesansicht-Freitag.png
+         - falih-rackwitz-desktop-01-Wochenansicht-nur Vorlesungen.png
+         - falih-rackwitz-desktop-02-Wochenansicht-Optionleiste.png
+         - falih-rackwitz-desktop-03-Wochenansicht-Profil(Dozent).png
+         - falih-rackwitz-desktop-04-Wochenansicht-alle Veranstaltungen-vollständig.png
+         - falih-rackwitz-desktop-05-Tagesansicht-Montag.png
+         - falih-rackwitz-desktop-07-Tagesansicht-Veranstaltungsübersicht-TI1.png
+         - falih-rackwitz-tablet(hoch)-01-Wochenansicht-alle Veranstaltungen.png
+         - falih-rackwitz-tablet(hoch)-02-Tagesansicht-alle Veranstaltungen.png
+         - falih-rackwitz-tablet(quer)-01-Wochenansicht-alle Veranstaltungen.png
+         - falih-rackwitz-tablet(quer)-02-Tagesansicht-alle Veranstaltungen.png
+         
+
+Beim Screendesignprojekt dieses Jahres bestand die Aufgabe darin, die in HOPS gezeigte Stundenplanansicht der Fakultät 10 der TH Köln neu zu gestalten. Ziel war es, ein zugängliches, flexibles und gut strukturiertes Interface zu entwickeln, das komplexe Veranstaltungsdaten übersichtlich auf drei verschiedenen Endgeräten (Desktop, Tablet und Smartphone) darstellt. Hierbei sollten auch auf die Mängeln vom HOPS geachtet werden, um die selben Fehler zu vermeiden.
 
 Zu Beginn stand die Ideenfindung mithilfe von Personas. Diese stellten unterschiedliche Nutzergruppen dar und rechtfertigten dabei die verschiedenen Geräteklassen. Die wichtigste Zielgruppe waren die Studierende, da diese häufig mobil auf ihren Stundenplan zugreifen. Wichtige Bedürfnisse waren eine schnelle Übersicht über Veranstaltungen, genauere Infos zu einzelnen Modulen sowie Zugriff auf Profil, Einstellungen und Benachrichtigungen. Auch die Möglichkeit, Räume einzusehen und spontane Ausfälle mitzubekommen, spielte eine große Rolle. Zusätzlich sollte eine Filterfunktion eingebaut werden, damit der Screen nicht zu überladen wirkt und individuell angepasst werden kann.
 
