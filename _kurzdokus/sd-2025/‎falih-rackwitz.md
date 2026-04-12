@@ -3,7 +3,7 @@ title: Redesign Web Frontend der Veranstaltungsübersicht am Campus Gummersbach
 people:
     - Husayn Falih
     - Enno Rackwitz
-teaserimage: falih-rackwitz-teaser.png
+teaserimage: falih-rackwitz-teaser.png 
 gallery: 
      - falih-rackwitz-handy-01-Wochenansicht-Startseite.png
      - falih-rackwitz-handy-02-Wochenansicht-Optionleiste.png
