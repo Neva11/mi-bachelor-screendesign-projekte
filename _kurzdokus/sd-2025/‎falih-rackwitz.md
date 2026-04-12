@@ -5,7 +5,8 @@ people:
     - Husayn Falih
     - Enno Rackwitz
 teaserimage: falih-rackwitz-teaser.png
-gallery: - falih-rackwitz-handy-01-Wochenansicht-Startseite.png
+gallery: 
+         - falih-rackwitz-handy-01-Wochenansicht-Startseite.png
          - falih-rackwitz-handy-02-Wochenansicht-Optionleiste.png
          - falih-rackwitz-handy-03-Profilscreen-vollständig.png
          - falih-rackwitz-handy-04-Einstellungsscreen.png
@@ -29,7 +30,7 @@ gallery: - falih-rackwitz-handy-01-Wochenansicht-Startseite.png
          - falih-rackwitz-tablet(hoch)-02-Tagesansicht-alle Veranstaltungen.png
          - falih-rackwitz-tablet(quer)-01-Wochenansicht-alle Veranstaltungen.png
          - falih-rackwitz-tablet(quer)-02-Tagesansicht-alle Veranstaltungen.png
-         
+---       
 
 Beim Screendesignprojekt dieses Jahres bestand die Aufgabe darin, die in HOPS gezeigte Stundenplanansicht der Fakultät 10 der TH Köln neu zu gestalten. Ziel war es, ein zugängliches, flexibles und gut strukturiertes Interface zu entwickeln, das komplexe Veranstaltungsdaten übersichtlich auf drei verschiedenen Endgeräten (Desktop, Tablet und Smartphone) darstellt. Hierbei sollten auch auf die Mängeln vom HOPS geachtet werden, um die selben Fehler zu vermeiden.
 
