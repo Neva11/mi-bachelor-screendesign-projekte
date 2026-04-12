@@ -22,9 +22,9 @@ gallery:
     - sd-Filterleiste-Kizilaslan.png
     - sd-Detailansicht-Kizilaslan.png
 ---
-Kurzdokumentation: Redesign der Veranstaltungsübersicht an der Fakultät 10
+Kurzdokumentation: Redesign der Veranstaltungsübersicht am Campus Gummersbach
 
-Das Redesign der Veranstaltungsübersicht für die Fakultät 10 der TH Köln war für uns weit mehr als ein reines optisches Facelift. Das bisherige System ähnelt eher einer starren, administrativen Datenbankabfrage. Wer fünf Minuten vor der Vorlesung seinen Raum auf dem Smartphone suchte, musste sich mühsam durch sechs verschachtelte Dropdown-Menüs kämpfen. Unser zentrales Ziel in diesem Projekt war es, diese tägliche Frustration aufzulösen. Wir wollten ein Interface schaffen, das den echten Campusalltag versteht und unterstützt, zugänglich, reaktionsschnell und nutzerzentriert.
+Das Redesign der Veranstaltungsübersicht an der Fakultät 10 der TH Köln war für uns weit mehr als ein reines optisches Facelift. Das bisherige System ähnelt eher einer starren, administrativen Datenbankabfrage. Wer fünf Minuten vor der Vorlesung seinen Raum auf dem Smartphone suchte, musste sich mühsam durch sechs verschachtelte Dropdown-Menüs kämpfen. Unser zentrales Ziel in diesem Projekt war es, diese tägliche Frustration aufzulösen. Wir wollten ein Interface schaffen, das den echten Campusalltag versteht und unterstützt, zugänglich, reaktionsschnell und nutzerzentriert.
 
 Ein zentrales Element des Prototyps ist die flexible Kalenderdarstellung. Je nach Endgerät und Nutzungssituation stehen eine Tages-, Wochen- und Monatsansicht zur Verfügung. Während auf mobilen Geräten eine kompakte Darstellung mit möglichst wenigen Interaktionsschritten im Vordergrund steht, nutzt die Desktop-Version den größeren Bildschirmraum für eine detailliertere Übersicht. Ergänzend dazu gibt es spezielle Ansichten für Raumplanung und freie Räume, sodass das System nicht nur für Studierende, sondern auch für Lehrende und Mitarbeitende mit Organisationsaufgaben sinnvoll einsetzbar ist.
 
